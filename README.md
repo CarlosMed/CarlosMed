@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjMyNTY4OTAsIm5iZiI6MTcyMzI1NjU5MCwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODEwVDAyMjMxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZkMTgzZjkxMDU2Y2Q5MWFjYjhjNWI1MWVhNzlkZTM4NDBkNzQyMzYxOGJkZGY4ZmM4NDlhZTA3NzkwNTBmNDkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.DV2jnYqMUSYduseTNbxOODFvLi-sIxPolMoCeD7tO94" width="100%"/>
+  <img src="https://media.giphy.com/media/26vUucK24XyuAy9a0/giphy.gif?cid=790b76115yknv3ilv3zj60kzlivrv2baf9otj1kuw0m8ru0f&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%"/>
 </div>
 
 <div id="header" align="center">
@@ -18,22 +18,28 @@
     <img src="https://img.shields.io/badge/Codepen-white?logo=codepen&logoColor=black" alt="Codepen" title="Codepen" />
   </a>
 </div>
-  
-  Hello 👋🏽 and Welcome to my little code shelf.
-  
 
-  My name is Carlos, a passionate fullstack senior engineer with a keen eye for detail and an eye for frontend development. I consider myself both a technical designer and an artistic engineer. I thrive in crafting seamless user experiences while architecting robust backend systems.
+Hello 👋🏽 and Welcome to my little code shelf.
 
-  In my free time, I enjoy working on on anything technology related. From VM to Raspberry Pi's to Home Automations. I also like to take casual walks in nature 🍂, watch anime 🤖, and play videogames 🕹️ on my free time.
-  
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carlosmed&theme=gruvbox-duo&hide_border=true&background=45%2CEB545400%2CEB545400)](https://git.io/streak-stats)
+My name is Carlos, a passionate fullstack senior engineer with a keen eye for detail and an eye for frontend development. I consider myself both a technical designer and an artistic engineer. I thrive in crafting seamless user experiences while architecting robust backend systems.
+
+In my free time, I enjoy working on on anything technology related. From VM to Raspberry Pi's to Home Automations. I also like to take casual walks in nature 🍂, watch anime 🤖, and play videogames 🕹️ on my free time.
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carlosmed&theme=gruvbox-duo&hide_border=true&background=45%2CEB545400%2CEB545400)](https://git.io/streak-stats)
+
+
 
 ---
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/ToMjGpFmD406OtEI1Fe/giphy.gif?cid=ecf05e4704xtq0njlptdxazxdgtgnigbn27etrv8f0iqof85&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="24.4%"/>
+  <img src="https://media.giphy.com/media/ToMjGpFmD406OtEI1Fe/giphy.gif?cid=ecf05e4704xtq0njlptdxazxdgtgnigbn27etrv8f0iqof85&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="24.4%"/>
+  <img src="https://media.giphy.com/media/ToMjGpFmD406OtEI1Fe/giphy.gif?cid=ecf05e4704xtq0njlptdxazxdgtgnigbn27etrv8f0iqof85&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="24.4%"/>
+  <img src="https://media.giphy.com/media/ToMjGpFmD406OtEI1Fe/giphy.gif?cid=ecf05e4704xtq0njlptdxazxdgtgnigbn27etrv8f0iqof85&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="24.4%"/>
+</div>
 
 ### Languages and Tools :
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" title="MetaMask" alt="MetaMask" width="100%"/>&nbsp;
-
-- #### Front-End :
+  
+  #### Front-End :
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
@@ -43,47 +49,44 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg"  title="storybook" alt="storybook" width="40" height="40"/>&nbsp;
-  
-  
-- #### Back-End :
+  #### Back-End :
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="50" height="35"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" title="Mocha" alt="Mocha" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
- 
-- #### Cloud : 
+  #### Cloud : 
   <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
   <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" title="Hardhat" alt="Hardhat" width="40" height="30"/>&nbsp;
   <img src="https://seeklogo.com/images/E/ethers-logo-D5B86204D8-seeklogo.com.png" title="Ethers.js" alt="Ethers.js" width="50" height="35"/>&nbsp;
   <img src="https://seeklogo.com/images/M/metamask-logo-09EDE53DBD-seeklogo.com.png" title="MetaMask" alt="MetaMask" width="40" height="40"/>&nbsp;
-  
-
-- #### Other :
+  #### Other :
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
   <img src="https://www.netlify.com/v3/img/components/logomark.png" title="Netlify" alt="Netlify" width="40" height="40"/>&nbsp;
 
-  ---
-  <div id="header" align="center">
-    <p>Thank you for coming!</p>
-    
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=carlosmed.visitor-badge&left_color=black&right_color=black&left_text=Hello%20Visitors" />
-    <a href="https://www.cmed.dev/" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Portfolio-white?logo=vercel&logoColor=black" alt="Personal Website" title="Personal Portfolio" />
-    </a> 
-    <a href="https://www.linkedin.com/in/carlosmed/" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" />
-    </a>
-    <a href="https://codepen.io/carlosmed" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Codepen-white?logo=codepen&logoColor=black" alt="Codepen" title="Codepen" />
-    </a>
-  </div>
-  <div id="header" align="center">
-    <img src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjMyNTY4OTAsIm5iZiI6MTcyMzI1NjU5MCwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODEwVDAyMjMxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNhMWU1OTI1Njc1NjNlYzRmMDc4MGNhMDgzYmY0Yjg2ODA3YWU4Y2I3NjhmNjQ4Nzg2M2U2NTU4NmYyNDU1ZGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.7TkJ7aYqkvU68pkigjbD1ltiGiUa7on_vCU-6qhH1fc" title="Thank you! Bye Bye" width="50%"/>
-  </div>
+
+---
+<div id="header" align="center">
   
+  ### Hope you enjoyed!
+  
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=carlosmed.visitor-badge&left_color=black&right_color=black&left_text=Hello%20Visitors" />
+  <a href="https://www.cmed.dev/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-white?logo=vercel&logoColor=black" alt="Personal Website" title="Personal Portfolio" />
+  </a> 
+  <a href="https://www.linkedin.com/in/carlosmed/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" />
+  </a>
+  <a href="https://codepen.io/carlosmed" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Codepen-white?logo=codepen&logoColor=black" alt="Codepen" title="Codepen" />
+  </a>
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/u1DvFCPlzQr5hKNsFT/giphy.gif?cid=ecf05e47919q0vnvlkru0f3xf389tlgdh3kmm7ddtubekays&ep=v1_gifs_related&rid=giphy.gif&ct=g" title="Thank you! Bye Bye" width="50%"/>
+</div>
+
 
 
