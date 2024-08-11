@@ -23,9 +23,9 @@
 
 Hello 👋🏽 and Welcome to my little code shelf.
 
-My name is Carlos, a passionate fullstack senior engineer with a keen eye for detail and an eye for frontend development. I consider myself both a technical designer and an artistic engineer. I thrive in crafting seamless user experiences while architecting robust backend systems.
+My name is Carlos, a passionate fullstack senior engineer with a keen eye for detail and an affinity for frontend development. I consider myself both a technical designer and an artistic engineer. I thrive in crafting seamless user experiences while architecting robust backend systems.
 
-In my free time, I enjoy working on on anything technology related. From VM to Raspberry Pi's to Home Automations. I also like to take casual walks in nature 🍂, watch anime 🤖, and play videogames 🕹️ on my free time.
+In my free time, I enjoy working on anything technology related. From VM to Raspberry Pi's to Home Automations. I also like to take casual walks in nature 🍂, watch anime 🤖, and play videogames 🕹️.
 
 <div style="">
     <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
